@@ -1,18 +1,107 @@
-## Hi there 👋 It's me Kesavan
+<img src="https://i.pinimg.com/originals/95/55/13/955513e00b4c5c3b9f47d1b5117c5d4e.gif" width="100%" />
 
-Aspiring Software Developer
-<img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
-- 🔭 Here's my [portfolio](https://www.linkedin.com/in/kesavan05/)                                                 
-- 🌱 I’m currently learning Web applications and Integrating AI to my workflow
-- ⚡ Fun fact: I am State level athlete.
+<h1 align="center">
+  Yo! I'm Kesavan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/>
+</h1>
+<h3 align="center">🧠 Data Wizard | 💻 Full Stack Shinobi | 🏆 Hackathon Survivor</h3>
 
-### I code in
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/python.png" />  <img height="50" width="50" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/html-5.png" /> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/css3.png" /> 
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/javascript.png"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/tensorflow.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/react-native.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/google-firebase-console.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mysql-logo.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/mongodb.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/nodejs.png"/><img width="50" height="50" src="https://img.icons8.com/office/40/spring-logo.png" alt="spring-logo"/><img height="50" width="50" src="https://img.icons8.com/color/48/null/graphql.png"/>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=FF61A6&center=true&vCenter=true&multiline=true&width=500&height=80&lines=Code+by+day+%F0%9F%94%A5;Anime+by+night+%F0%9F%8C%9F;Leveling+up+24%2F7+%F0%9F%8E%AE" alt="Typing SVG" />
+</p>
 
-### IDE and Tools I Use
-<img height="50" width="50" src="https://img.icons8.com/color/48/000000/visual-studio-code-2019.png"/> <img height="50" width="50" src="https://img.icons8.com/color/48/000000/pycharm.png"/> <img height="50" width="50" src="https://img.icons8.com/color/50/000000/git.png"/> <img height="50" width="50" src="https://img.icons8.com/dusk/64/000000/anaconda.png"/> <img width="48" height="48" src="https://img.icons8.com/color/48/intellij-idea.png" alt="intellij-idea"/><img height="50" width="50" src="https://img.icons8.com/color/48/000000/figma--v1.png"/><img width="48" height="48" src="https://img.icons8.com/fluency/48/canva-app.png" alt="canva-app"/>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mohammedabsal&style=flat-square&color=blue" alt="profile views"/>
+  <img src="https://img.shields.io/github/followers/mohammedabsal?label=Follow&style=social" />
+</p>
 
-### 💻 Workspace Spec
-<img width="50" height="50" src="https://img.icons8.com/cute-clipart/64/asus.png" alt="asus"/> <img width="48" height="48" src="https://img.icons8.com/color/48/nvidia.png" alt="nvidia"/>  <img width="48" height="48" src="https://img.icons8.com/external-tal-revivo-color-tal-revivo/24/external-intel-corporation-an-american-multinational-corporation-and-technology-company-logo-color-tal-revivo.png" alt="external-intel-corporation-an-american-multinational-corporation-and-technology-company-logo-color-tal-revivo"/>
+---
 
+### 🧩 GitHub Character Stats
+
+```yaml
+Name: Kesavan  
+Class: AI Mage / Full Stack Alchemist  
+Level: Pre-Final Year (RIT Questline 🏫)  
+Location: Chennai, India  
+Guild: GitHub | LinkedIn | Hackathons  
+Weapon: Python Blade 🐍 + Java Full Staff ⚔️  
+Special Move: Real-time data-driven explosions 💥
+🎮 Skill Tree Unlocked
+```
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,js,react,nodejs,express,mongodb,html,css,git,postman,vscode,intelljiidea" />
+</p>
+
+<details>
+<summary>🛡️ <b>Skill Tree</b> (click to expand)</summary>
+
+```
+⚔️ Programming:     Python ++ | Java ++ | Js+ | C +
+🛡️ Web Dev:         HTML/CSS ++ | Node.js ++ | Express ++ | Firebase +
+🎯 Data Wizardry:   Pandas ++ | NumPy ++ | Streamlit ++ | NLP ++
+💾 Databases:       PostgreSQL ++ | Mongodb + | MYSQL +
+🌀 Tools:           Git/GitHub ++ | Postman + | VS Code ++ | Intellij Idea ++
+🧠 Soft Skills:     Critical Thinking ++ | Collab ++ | Communication +
+🧪 Status: Always testing. Always evolving.
+💥 Favorite Games:  Football | Cricket | Sprinting
+```
+</details>
+
+---
+
+### 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=mohammedabsal&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+</p>
+
+---
+
+### 🔥 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohammedabsal&show_icons=true&theme=tokyonight" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammedabsal&theme=tokyonight" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedabsal&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+### 🛠️ Currently Grinding
+
+```diff
++ Java Full Stack Mastery
++ System Design for Big Brain Interviews
++ DSA Speed Run Mode
++ Building Next Hackathon Banger
++ Communication Skill Power-Up
+```
+
+---
+
+### 🌐 Social Summon Circle
+
+<p align="center">
+  <a href="mailto:kesavankvn@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/kesavan05/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/TechKesav/TechKesav"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
+</p>
+
+---
+
+### 🧠 Quote That Hits Different
+
+> “You should enjoy the little detours. Because that's where you'll find the things more important than what you want.”  
+> — Ging Freecss (Hunter x Hunter)
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
+</p>
+avatar
+Ask In Chat
+Ask In Chat
