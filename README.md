@@ -94,8 +94,8 @@ Special Move: Real-time data-driven explosions 💥
 
 ### 🧠 Quote That Hits Different
 
-> “You should enjoy the little detours. Because that's where you'll find the things more important than what you want.”  
-> — Ging Freecss (Hunter x Hunter)
+> “The treasure isn’t always at the end — sometimes it hides in the footsteps you leave along the way.”
+> — Edward Elric (Fullmetal Alchemist: Brotherhood)
 
 ---
 
