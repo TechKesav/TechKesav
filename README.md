@@ -10,8 +10,8 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mohammedabsal&style=flat-square&color=blue" alt="profile views"/>
-  <img src="https://img.shields.io/github/followers/mohammedabsal?label=Follow&style=social" />
+  <img src="https://komarev.com/ghpvc/?username=TechKesav&style=flat-square&color=blue" alt="profile views"/>
+  <img src="https://img.shields.io/github/followers/TechKesav?label=Follow&style=social" />
 </p>
 
 ---
@@ -30,7 +30,7 @@ Special Move: Real-time data-driven explosions 💥
 ```
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,react,nodejs,express,mongodb,html,css,git,postman,vscode,intelljiidea" />
+  <img src="https://skillicons.dev/icons?i=java,python,js,react,nodejs,express,mongodb,html,css,git,postman,vscode,intellji" />
 </p>
 
 <details>
@@ -53,7 +53,7 @@ Special Move: Real-time data-driven explosions 💥
 ### 🏆 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mohammedabsal&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
+  <img src="https://github-profile-trophy.vercel.app/?username=TechKesav&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4" />
 </p>
 
 ---
@@ -61,11 +61,11 @@ Special Move: Real-time data-driven explosions 💥
 ### 🔥 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohammedabsal&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=TechKesav&show_icons=true&theme=tokyonight" />
   <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohammedabsal&theme=tokyonight" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TechKesav&theme=tokyonight" />
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedabsal&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TechKesav&layout=compact&theme=tokyonight" />
 </p>
 
 ---
