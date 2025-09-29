@@ -30,7 +30,7 @@ Special Move: Real-time data-driven explosions 💥
 ```
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,js,react,nodejs,express,mongodb,html,css,git,postman,vscode,docker,idea" />
+  <img src="https://skillicons.dev/icons?i=java,python,js,react,nodejs,springboot,mongodb,html,css,git,postman,vscode,docker,idea" />
 </p>
 
 <details>
