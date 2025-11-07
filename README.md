@@ -38,12 +38,12 @@ Special Move: Real-time data-driven explosions 💥
 
 ```
 ⚔️ Programming:     Python ++ | Java ++ | Js+ | C +
-🛡️ Web Dev:         HTML/CSS ++ | Node.js ++ | Express ++ | Firebase +
+🛡️ Web Dev:         React js ++ | Spring Boot ++ | Node js + | Firebase +
 🎯 Data Wizardry:   Pandas ++ | NumPy ++ | Streamlit ++ | NLP ++
 💾 Databases:       PostgreSQL ++ | Mongodb + | MYSQL +
 🌀 Tools:           Git/GitHub ++ | Postman + | VS Code ++ | Intellij Idea ++
 🧠 Soft Skills:     Critical Thinking ++ | Collab ++ | Communication +
-🧪 Status: Always testing. Always evolving.
+🧪 Status:          Always testing. Always evolving.
 💥 Favorite Games:  Football | Cricket | Sprinting
 ```
 </details>
@@ -103,5 +103,4 @@ Special Move: Real-time data-driven explosions 💥
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p>
 avatar
-Ask In Chat
 Ask In Chat
