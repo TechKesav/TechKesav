@@ -1,9 +1,9 @@
 <img src="https://i.pinimg.com/originals/95/55/13/955513e00b4c5c3b9f47d1b5117c5d4e.gif" width="100%" />
 
 <h1 align="center">
-  Yo! I'm Kesavan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/>
+  Hi! I'm Kesavan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"/>
 </h1>
-<h3 align="center">🧠 Data Wizard | 💻 Full Stack Shinobi | 🏆 Hackathon Survivor</h3>
+<h3 align="center">🧠 AI & Data Enthusiast | 💻 Full Stack Developer | 🏆 Hackathon Survivor</h3>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=2500&pause=1000&color=FF61A6&center=true&vCenter=true&multiline=true&width=500&height=80&lines=Code+by+day+%F0%9F%94%A5;Anime+by+night+%F0%9F%8C%9F;Leveling+up+24%2F7+%F0%9F%8E%AE" alt="Typing SVG" />
